@@ -1,4 +1,4 @@
-# NucleoF401RE-Demo
+# NUCLEO-F401RE-Demo
 # STM32F401RE - LED & Buzzer Control with Buttons
 
 This project demonstrates the use of GPIO to control LEDs and a buzzer on an STM32F401RE microcontroller using two buttons (B2 and B4).
