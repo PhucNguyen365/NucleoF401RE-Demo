@@ -1,0 +1,5 @@
+main.c:23:5:main	24	static
+main.c:65:6:BlinkLED	32	static
+main.c:74:6:BuzzerBeepWithLED	24	static
+main.c:85:6:Delay_ms	24	static,ignoring_inline_asm
+main.c:91:6:GPIO_Config	16	static
